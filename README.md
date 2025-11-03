@@ -1,4 +1,9 @@
-## Hi there 👋
+## I am krunpy
+real name: Максим
+from: 🇷🇺
+stack: React, Express, PostgreSQL, Prisma ORM
+if you want to work together, feel free to contact me:
+tg: @ntcll, discord: dolbaeb6.w, email: maksimglinin17984@gmail.com
 
 <!--
 **krunpy0/krunpy0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
