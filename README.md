@@ -1,4 +1,4 @@
-![alt](https://lh3.googleusercontent.com/d/1Zn4tEZRqAFow-W21aYiq5TK0xmV6NIrd)
+![alt](https://lh3.googleusercontent.com/d/1kcE15hEXPEWxKS_vSAmnpybvnnHcSjZ8)
 
 # krunpy
 
